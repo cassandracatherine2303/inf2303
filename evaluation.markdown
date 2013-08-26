@@ -15,8 +15,9 @@ Grades will be based on the following components:
 
   * preparation for the class (“memos,” **15%** of the course grade),
   * contribution to class discussion (**15%**),
-  * the term paper (three deliverables jointly worth **50%**),
+  * the term paper (three deliverables jointly worth **35%**),
   * reviews of other students’ paper proposals (**10%**),
+  * review of open source software versus proprietary software (**15%**)
   * a course “patch” (**10%**, see below).
 
 ### Contribution to Class Discussion — 15%
@@ -74,7 +75,7 @@ The memos are due by email, <span class="important">by 8 am of the day
 Students responsible for chairing each class will be tasked with
   reading and summarizing submitted memos in writing.
 
-### Term Paper and Presentation - 50%
+### Term Paper and Presentation - 35%
 
 A major component of the course is a term paper exploring a specific
   topic related to the content of the course.
@@ -169,6 +170,15 @@ The papers will be shared with other students and will be evaluated by
 
 The final grade for the paper will also incorporate an assessment of
   your original proposal and the presentation.
+
+### Comparison of open source software versus proprietary software - 15%
+
+Each student will analyze the differences, strengths, weaknesses, and 
+  similarities of a certain product that is offered as proprietary 
+  software and open source software (such an example would be OpenOffice
+  versus Microsoft word).
+Students are then to submit a 1000-1500 word paper outlining their
+  results followed by a recommendation.
 
 ### Paper Proposal Reviews — 10%
 
